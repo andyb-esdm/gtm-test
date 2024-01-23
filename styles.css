@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Sans-Serif;
+}
+
+
+div.container {
+    width: 80%;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
