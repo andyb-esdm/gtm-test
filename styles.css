@@ -13,6 +13,7 @@ body {
 }
 
 div.container {
+    margin-block-start: 1rem;
     width: 80%;
     margin-inline-start: auto;
     margin-inline-end: auto;
